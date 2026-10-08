@@ -547,7 +547,7 @@
     }
 
     .display-container {
-        background: #1e293b;
+        background: #ffffff;
         color: #ffffff;
         border-radius: 12px;
         padding: 14px 16px;
@@ -599,7 +599,7 @@
         font-size: 32px;
         font-weight: 600;
         text-align: right;
-        color: #f8fafc;
+        color: #1e293b;
         overflow-x: auto;
         white-space: nowrap;
         scrollbar-width: none;
