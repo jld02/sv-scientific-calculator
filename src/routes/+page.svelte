@@ -537,7 +537,7 @@
     }
 
     .calculator {
-        background: #ffffff;
+        background: #575555;
         border-radius: 18px;
         box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.08);
         padding: 20px;
